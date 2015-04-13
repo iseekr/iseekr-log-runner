@@ -1,5 +1,6 @@
 {
 	"name": "iseekr-log-runner",
+	"version":"0.0.1",
 	"main": "index.js",
 	"dependencies": {
 		"detector": "^2.2.1",
