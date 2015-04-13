@@ -1,6 +1,8 @@
 {
-  "dependencies": {
-    "detector": "^2.2.1",
-    "moment": "^2.10.2"
-  }
+	"name": "iseekr-log-runner",
+	"main": "index.js",
+	"dependencies": {
+		"detector": "^2.2.1",
+		"moment": "^2.10.2"
+	}
 }
